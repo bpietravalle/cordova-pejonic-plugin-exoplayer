@@ -35,7 +35,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/res/values/ids.xml" target-dir="res/values/"/>
+        <source-file src="src/res/values/exo-ids.xml" target-dir="res/values/"/>
         <source-file src="src/res/layout/exo_simple_player_view.xml" target-dir="res/layout/"/>
         <source-file src="src/res/layout/exo_playback_control_view.xml" target-dir="res/layout/"/>
         <source-file src="src/res/layout/list_divider.xml" target-dir="res/layout/"/>
